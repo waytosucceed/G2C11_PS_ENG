@@ -1,0 +1,232 @@
+{
+  "heading": "Questions and Answers",
+  "topics": [
+    {
+      "heading": "Syllable",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Hear the word and count the syllables.",
+          "image":"./assests/images/pizza.png",
+          "questionSound":"./assests/sounds/pizza.mp3",
+          "options": [
+            "1",
+            "2",
+            "3"
+          ],
+          "answer": 1,
+          "explanation": "\"Pizza\" has two beats: \"piz-za\", so it has two syllables."
+        },
+        {
+          "questionNo": 2,
+          "question": "The word \"sun\" has two syllables.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "explanation": "\"Sun\" has only one beat when we say it, so it has one syllable."
+        },
+        {
+          "questionNo": 3,
+          "question": "Fill in the blank: The word \"butterfly\" has ____ syllables.",
+          "options": [
+            "3",
+            "4"
+          ],
+          "answer": 0,
+          "explanation": "\"Butterfly\" has three beats: \"but-ter-fly\", so it has three syllables."
+        },
+        {
+          "questionNo": 4,
+          "question": "Hear the word and choose the correct spelling.",
+          "image":"./assests/images/turtle.png",
+          "questionSound":"./assests/sounds/turtle.mp3",
+          "options": [
+            "Total",
+            "Turtle",
+            "Tutal"
+          ],
+          "answer": 1,
+          "explanation": "\"Turtle\" has two syllables (tur-tle), and is spelt as T-U-R-T-L-E."
+        },
+        {
+          "questionNo": 5,
+          "question": "Hear the word and count the syllables.",
+          "image":"./assests/images/balloon.png",
+          "questionSound":"./assests/sounds/balloon.mp3",
+          "options": [
+            "1",
+            "2",
+            "3"
+          ],
+          "answer": 1,
+          "explanation": "\"Balloon\" has two beats: \"bal-loon\", so it has two syllables."
+        },
+        {
+          "questionNo": 6,
+          "question": "Fill in the blank: The word \"hat\" has ____ syllable(s).",
+          "options": [
+            "1",
+            "2"
+          ],
+          "answer": 0,
+          "explanation": "\"Hat\" has only one beat when we say it, so it has one syllable."
+        },
+        {
+          "questionNo": 7,
+          "question": "Which word has 3 syllables?",
+          "options": [
+            "cat",
+            "puppy",
+            "kangaroo"
+          ],
+          "answer": 2,
+          "explanation": "\"Kangaroo\" has three beats: \"kan-ga-roo\", so it has three syllables."
+        },
+        {
+          "questionNo": 8,
+          "question": "How many syllables are in the word \"pencil\"?",
+          "options": [
+            "1",
+            "2",
+            "3"
+          ],
+          "answer": 1,
+          "explanation": "\"Pencil\" has two beats: \"pen-cil\", so it has two syllables."
+        },
+        {
+          "questionNo": 9,
+          "question": "Hear the word and choose the correct spelling.",
+          "questionSound":"./assests/sounds/colour.mp3",
+          "options": [
+            "Collar",
+            "Coral",
+            "Colour"
+          ],
+          "answer": 2,
+          "explanation": "The word \"Colour\" is spelt as C-O-L-O-U-R. For example: Red, Green, Brown, Blue, etc."
+        },
+        {
+          "questionNo": 10,
+          "question": "Fill in the blank: The word \"elephant\" has ____ syllables.",
+          "options": [
+            "3",
+            "4"
+          ],
+          "answer": 0,
+          "explanation": "\"Elephant\" has three beats: \"el-e-phant\", so it has three syllables."
+        },
+        {
+          "questionNo": 11,
+          "question": "Which word has only one syllable?",
+          "options": [
+            "book",
+            "table",
+            "banana"
+          ],
+          "answer": 0,
+          "explanation": "\"Book\" has only one syllable, while \"table\" has two and \"banana\" has three."
+        },
+        {
+          "questionNo": 12,
+          "question": "How many syllables are in the word \"choc-o-late\"?",
+          "options": [
+            "2",
+            "3",
+            "4"
+          ],
+          "answer": 1,
+          "explanation": "\"Chocolate\" has three beats: \"choc-o-late\", so it has three syllables."
+        },
+        {
+          "questionNo": 13,
+          "question": "Hear the word and choose the correct spelling.",
+          "image":"./assests/images/rocket.png",
+          "questionSound":"./assests/sounds/rocket.mp3",
+          "options": [
+            "Rocket",
+            "Rotak",
+            "Rokat"
+          ],
+          "answer": 0,
+          "explanation": "The word \"Rocket\" is spelt as R-O-C-K-E-T. \"Rocket\" is a vehicle which goes into space."
+        },
+        {
+          "questionNo": 14,
+          "question": "Fill in the blank: The word \"happy\" has ____ syllables.",
+          "options": [
+            "1",
+            "2"
+          ],
+          "answer": 1,
+          "explanation": "\"Happy\" has two beats: \"hap-py\", so it has two syllables."
+        },
+        {
+          "questionNo": 15,
+          "question": "Which word has 2 syllables?",
+          "options": [
+            "tiger",
+            "car",
+            "elephant"
+          ],
+          "answer": 0,
+          "explanation": "\"Tiger\" has two beats: \"ti-ger\", so it has two syllables."
+        },
+        {
+          "questionNo": 16,
+          "question": "How many syllables are in the word \"oc-to-pus\"?",
+          "options": [
+            "2",
+            "3",
+            "4"
+          ],
+          "answer": 1,
+          "explanation": "\"Octopus\" has three beats: \"oc-to-pus\", so it has three syllables."
+        },
+        {
+          "questionNo": 17,
+          "question": "Fill in the blank: The word \"dog\" has ____ syllable(s).",
+          "options": [
+            "1",
+            "2"
+          ],
+          "answer": 0,
+          "explanation": "\"Dog\" has only one beat when we say it, so it has one syllable."
+        },
+        {
+          "questionNo": 18,
+          "question": "Hear the word in the options and choose the word which has more than one syllable.",
+          "options": [
+            "./assests/sounds/cat.mp3",
+            "./assests/sounds/kitten.mp3"
+                    ],
+          "answer": 1,
+          "explanation": "\"Kitten\" has two syllables (kit-ten), while \"cat\" has only one."
+        },
+        {
+          "questionNo": 19,
+          "question": "How many syllables are in the word \"gi-raffe\"?",
+          "options": [
+            "3",
+            "1",
+            "2"
+          ],
+          "answer": 2,
+          "explanation": "\"Giraffe\" has two beats: \"gi-raffe\", so it has two syllables."
+        },
+        {
+          "questionNo": 20,
+          "question": "Which word has 1 syllable?",
+          "options": [
+            "pig",
+            "monkey",
+            "elephant"
+          ],
+          "answer": 0,
+          "explanation": "\"Pig\" has only one beat when we say it, so it has one syllable."
+        }
+      ]
+    }
+  ]
+}
